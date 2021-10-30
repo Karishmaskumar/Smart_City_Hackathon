@@ -8,7 +8,7 @@ The sample include<br/>
 - 1440 speech files from RAVDESS. This dataset includes recordings of 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. Speech includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. Each file was rated 10 times on emotional validity, intensity, and genuineness. Ratings were provided by 247 individuals who were characteristic of untrained adult research participants from North America.<br/>
 - 2820 files from TESS. A set of 200 target words were spoken in the carrier phrase "Say the word _____' by two actresses (aged 26 and 64 years) and recordings were made of the set portraying each of seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral). There are 2800 stimuli in total.<br/><br/>
 **Classification Report**<br/>
-![image](https://user-images.githubusercontent.com/82216738/139543618-b9a511bd-cb93-46c6-a06b-7c54a733ebed.png)<br/><br/>
+![image](https://user-images.githubusercontent.com/82216738/139546694-405849f4-40af-46d9-9e06-d3d9eacd696b.png)<br/><br/>
 **Confusion Matrix**<br/>
 ![image](https://user-images.githubusercontent.com/82216738/139543658-bd51c2d0-dcd7-4078-95a1-711ac4dd1ca7.png)<br/><br/>
 **Spectrogram of the user audio**<br/>
