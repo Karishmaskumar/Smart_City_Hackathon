@@ -13,6 +13,7 @@ The sample include<br/>
 **Confusion Matrix**<br/>
 ![image](https://user-images.githubusercontent.com/82216738/139543658-bd51c2d0-dcd7-4078-95a1-711ac4dd1ca7.png)<br/><br/>
 **Spectrogram of the user audio**<br/>
-![image](https://user-images.githubusercontent.com/82216738/139543749-56d658f8-e6ad-4bb1-8ebc-e31e2d8c629d.png)
+![image](https://user-images.githubusercontent.com/82216738/139543749-56d658f8-e6ad-4bb1-8ebc-e31e2d8c629d.png)<br/><br/>
+Team members: Archana Ganapathy, Chinthakunta Gowthami Reddy, Harini, Karishma
 
 
