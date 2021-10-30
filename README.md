@@ -3,7 +3,8 @@ Mental health includes our emotional, psychological, and social well-being. It a
 We make efforts to make health care accessible to everyone even in remote areas and thereby ease pressure on the medical system. Our aim is to guarantee that everyone has healthy mental health. Using deep learning and machine learning algorithms with the help of Ravdess and TESS dataset we aim to design an automatic emotion recognition system and provide appropriate solution to the user based on their mental state.<br/><br/>
 The dataset is built using 4266 samples from:<br/>
 - the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) dataset<br/>
-- the Toronto emotional speech set (TESS) dataset<br/><br/>
+- the Toronto emotional speech set (TESS) dataset<br/>
+The entire dataset is included here - https://drive.google.com/drive/folders/1_abzLtAEdgMTjryPY00sDB3ogtu3TYze?usp=sharing<br/><br/>
 The sample include<br/>
 - 1440 speech files from RAVDESS. This dataset includes recordings of 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. Speech includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. Each file was rated 10 times on emotional validity, intensity, and genuineness. Ratings were provided by 247 individuals who were characteristic of untrained adult research participants from North America.<br/>
 - 2820 files from TESS. A set of 200 target words were spoken in the carrier phrase "Say the word _____' by two actresses (aged 26 and 64 years) and recordings were made of the set portraying each of seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral). There are 2800 stimuli in total.<br/><br/>
