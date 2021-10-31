@@ -14,6 +14,18 @@ The sample include<br/>
 ![image](https://user-images.githubusercontent.com/82216738/139543658-bd51c2d0-dcd7-4078-95a1-711ac4dd1ca7.png)<br/><br/>
 **Spectrogram of the user audio**<br/>
 ![image](https://user-images.githubusercontent.com/82216738/139543749-56d658f8-e6ad-4bb1-8ebc-e31e2d8c629d.png)<br/><br/>
+<font size='3'>After the proper analysis of the user's emotion, we provide appropriate solutions to enhance their mental state</font>
+- Music : a great way of coping with mental disturbances. So, appropriate music for the user to relax is provided.
+
+- References of doctors and hospitals are provided based on their age group and appointments are made for willing people.
+
+- Providing them with information of their prescribed medicines
+
+- Include BMI checker and a sleep tracker where users are notified when they don’t fall under the normal category.
+
+- Suggest users to do daily tasks like yoga and meditation
+
+- Providing anti-stress anxiety relief relaxing games<br/><br/>
 Team members: Archana Ganapathy, Chinthakunta Gowthami Reddy, Harini, Karishma
 
 
